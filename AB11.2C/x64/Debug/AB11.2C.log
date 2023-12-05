@@ -1,0 +1,12 @@
+﻿  AB11.2C.cpp
+D:\programyvanya\AB11.2C\AB11.2C\AB11.2C.cpp(23,21): warning C4473: 'scanf_s' : not enough arguments passed for format string
+D:\programyvanya\AB11.2C\AB11.2C\AB11.2C.cpp(23,21): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+D:\programyvanya\AB11.2C\AB11.2C\AB11.2C.cpp(23,21): message : the missing variadic argument 2 is required by format string '%c'
+D:\programyvanya\AB11.2C\AB11.2C\AB11.2C.cpp(23,21): message : this argument is used as a buffer size
+D:\programyvanya\AB11.2C\AB11.2C\AB11.2C.cpp(79,13): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+D:\programyvanya\AB11.2C\AB11.2C\AB11.2C.cpp(79,13): message : this argument is used as a buffer size
+D:\programyvanya\AB11.2C\AB11.2C\AB11.2C.cpp(85,13): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+D:\programyvanya\AB11.2C\AB11.2C\AB11.2C.cpp(85,13): message : this argument is used as a buffer size
+D:\programyvanya\AB11.2C\AB11.2C\AB11.2C.cpp(89,13): warning C4477: 'scanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'size_t'
+D:\programyvanya\AB11.2C\AB11.2C\AB11.2C.cpp(89,13): message : this argument is used as a buffer size
+  AB11.2C.vcxproj -> D:\programyvanya\AB11.2C\x64\Debug\AB11.2C.exe
